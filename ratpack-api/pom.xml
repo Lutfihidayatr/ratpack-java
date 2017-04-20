@@ -129,13 +129,6 @@
             <version>2.9.4</version>
         </dependency>
 
-        <!-- QR CODE -->
-        <dependency>
-            <groupId>com.github.kenglxn.qrgen</groupId>
-            <artifactId>javase</artifactId>
-            <version>2.2.0</version>
-        </dependency>
-
         <!-- test -->
         <dependency>
             <groupId>junit</groupId>
@@ -212,12 +205,6 @@
             <version>1.1.1</version>
         </dependency>
 
-        <dependency>
-            <groupId>scd</groupId>
-            <artifactId>scd-model</artifactId>
-            <!--<version>0.0.2.13</version>-->
-            <version>0.0.3.15</version>
-        </dependency>
         <dependency>
             <groupId>com.siftscience</groupId>
             <artifactId>sift-java</artifactId>
